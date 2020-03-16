@@ -9,7 +9,7 @@ This will generate an index.html file built in inky syntax that can be used with
 
 This needs to be installed globally to work, so from the command line:
 
-```npm i -g index-gen```
+```npm i -g foundation-index-gen```
 
 ## Usage
 
