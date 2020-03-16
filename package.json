@@ -1,6 +1,6 @@
 {
   "name": "index-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a small index file in Inky syntax with named links to the contents of the current directory (usually src/pages). Intended for use with Foundation for Emails 2.",
   "main": "./lib/index.js",
   "scripts": {
