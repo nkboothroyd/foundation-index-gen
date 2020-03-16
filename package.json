@@ -1,5 +1,5 @@
 {
-  "name": "index-gen",
+  "name": "foundation-index-gen",
   "version": "1.0.1",
   "description": "Generates a small index file in Inky syntax with named links to the contents of the current directory (usually src/pages). Intended for use with Foundation for Emails 2.",
   "main": "./lib/index.js",
@@ -9,7 +9,7 @@
   "author": "Noah Boothroyd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nkboothroyd/index-gen.git"
+    "url": "https://github.com/nkboothroyd/foundation-index-gen.git"
   },
   "license": "ISC",
   "bin": {
