@@ -16,7 +16,7 @@
     "indexgen": "./bin/cli.js"
   },
   "dependencies": {
-    "glob": "^7.1.6",
-    "rimraf": "^3.0.2"
+    "glob": "^13.0.6",
+    "rimraf": "^6.1.3"
   }
 }
